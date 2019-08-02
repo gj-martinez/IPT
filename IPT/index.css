@@ -1,0 +1,36 @@
+.imagen{
+    width: 350px;
+    margin: 50px 400px 20px 550px;
+}
+
+.formulario{
+    margin: 50px 400px 20px 550px;
+}
+
+.button1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.button2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 50px 40px 80px 200px;
+}
+.combox{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 5px 20px 20px 0px;
+
+}
+
+
+.display{
+    width: 900px;
+    height: 500px;
+    background: white;
+    box-shadow: 0 10px 100px rgba(0,0,0, 0.5);
+}
+
+.contenedor{
+    margin-left: 200px;
+}
